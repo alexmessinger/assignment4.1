@@ -1,5 +1,4 @@
 
-
 /* ===================  General Section  ==================================== */
 
 * {
@@ -41,7 +40,7 @@ h3 {
 ul li {
    /* padding-top: 1em;*/
 		list-style-position:inside;
-		text-align: left;
+		/*text-align: left;*/
 		/*padding-left: 30em;*/
 }
 
